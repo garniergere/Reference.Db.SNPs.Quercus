@@ -1,2 +1,2 @@
-# Quercus.Resources.Rscripts
-High Quality SNPs Database and R scripts
+# Quercus SNP Resources 
+High Quality SNPs Database 
