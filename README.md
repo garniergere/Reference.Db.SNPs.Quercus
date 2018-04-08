@@ -1,2 +1,2 @@
-# Quercus.SNPs
+# Quercus SNPs Resources
 High Quality SNPs Database
