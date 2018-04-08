@@ -1,2 +1,2 @@
-# Quercus GBS-SNPs Resources
-High Quality SNPs Database
+# Quercus SNPs Resources
+High Quality GBS-SNPs Database
