@@ -1,7 +1,8 @@
 # Quercus SNPs Resources
 
-This page compiles information on High Quality GBS-SNPs Database obtained in the following paper:
-Lang T, 
+This page compiles information on High Quality GBS-SNPs Database obtained in the following paper: <br/>
+Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P. High-quality GBS-SNPs from genic regions highlight introgression patterns and a large heterogeneity in both diversity and differentiation among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>). (<i>in preparation</i>)
+<br /> 
 
 Data published in this paper complete and much extend ... To be completed soon
 
