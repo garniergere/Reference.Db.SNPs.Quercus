@@ -15,7 +15,7 @@ individuals of the discovery panel)
 
 See <A HREF="STRUCTURE.plot"> STRUCTURE.plot </A> for examples of data, parameter files, and R script for plotting Bayesian Confidence Intervals
 
-
+See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses mreps output into a dataframe
 
 
 
