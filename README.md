@@ -1,6 +1,6 @@
-## High Quality SNPs Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
+## Reference database of high quality SNPs Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
 
-This page compiles information from a high quality database for polymorphic loci (SNPs, Indels, SSRs) obtained in: <br/>
+This page compiles information from a high quality database for polymorphic loci (SNPs, Indels, SSRs) characterized across ~530 kb of sequence fragments from genic regions in two Quercus species. These data are published in: <br/>
 
 > Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P (2018) High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>).
 <br /> 
