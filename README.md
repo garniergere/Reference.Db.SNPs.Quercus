@@ -1,4 +1,4 @@
-## Reference database of high quality SNPs Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
+## Reference database with high quality SNPs Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
 
 This page compiles information from a high quality database for polymorphic loci (SNPs, Indels, SSRs) characterized across ~530 kb of sequence fragments from genic regions in two Quercus species. These data are published in: <br/>
 
