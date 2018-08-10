@@ -1,8 +1,8 @@
-# High Quality SNPs Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
+## High Quality SNPs Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
 
 This page compiles information from a high quality database for polymorphic loci (SNPs, Indels, SSRs) obtained in: <br/>
 
-> Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P. High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>). (<i>in preparation</i>)
+> Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P (2018) High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>).
 <br /> 
 
 the manuscript is available at ...to be completed.
@@ -22,8 +22,8 @@ See <A HREF="STRUCTURE.files"> STRUCTURE.files </A> for examples of data, parame
 
 See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses mreps output into a dataframe for SSR detection.
 
-
-
+## Contact 
+Pauline Garnier-Géré ( pauline.garniergere@inra.fr )
 
 
 
