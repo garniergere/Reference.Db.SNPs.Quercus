@@ -1,15 +1,17 @@
-## Reference database with high quality SNPs Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
+## High quality SNP, Indel and SSR Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
 
-This page compiles information from a high quality database for polymorphic loci (SNPs, Indels, SSRs) characterized across ~530 kb of sequence fragments from genic regions in two Quercus species. These data are published in: <br/>
+This page compiles information from a database of high-quality polymorphic loci (SNP, Indel, SSR) characterized across ~530 kb of sequence fragments from genic regions in two Quercus species. These data are published in: <br/>
 
 > Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P (2018) High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>).
 <br /> 
 
+These data provide a detailed characterization of ...to be completed shortly
+
 the manuscript is available at ...to be completed.
 
-The data published in this paper correct and largely expand:
-* the current oak candidate genes database of the Quercus Portal at https://arachne.pierroton.inra.fr/QuercusPortal/
-* part of the SNP database of the Quercus Portal at www.evoltree.eu/index.php/snp-db/ using the "Quercus petraea/robur" filter option.
+The data published in this paper correct and largely expand :
+* the previous oak candidate genes database of the Quercus Portal at https://arachne.pierroton.inra.fr/QuercusPortal/
+* the previous SNP dataset currently available at the eLab from Evoltree www.evoltree.eu/index.php/snp-db/ which are directly derived from these candidate genes. This previous set of SNP can be examined online using the "Fagaceae" & "Quercus petraea/robur" filter options and then "update", and they can also be downloaded in batch from http://www.evoltree.eu/et_extensions/elab-data/SNP_Database_Export.xls
 
 Polymorphic loci lists and additional information are available as Supplementary information of the above reference at the following BioRxiv link:
 
@@ -23,7 +25,7 @@ See <A HREF="STRUCTURE.files"> STRUCTURE.files </A> for examples of data, parame
 See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses mreps output into a dataframe for SSR detection.
 
 ## Contact 
-Pauline Garnier-Géré ( pauline.garniergere@inra.fr )
+Pauline Garnier-Géré ( pauline.garniergere@inrae.fr )
 
 
 
