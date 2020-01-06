@@ -1,1 +1,2 @@
-Contigs of the original working assembly used for selecting candidate gene regions and design amplicon primers, including consensus sequences and reads where nucleotides with Phred score below 20 have been masked.
+Contigs of the original working assembly used for selecting candidate gene regions and design amplicon primers, 
+including consensus sequences and reads where nucleotides with Phred score below 20 have been masked.
