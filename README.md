@@ -28,46 +28,24 @@ A new version of the manuscript is available at (add new BioRxiv link) (to be su
 ### Data availability and links to other oak genomic resources
 
 * Sanger original sequence data (.ab1 trace files) current link is <A HREF="https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY"> here</A>. Each subfolder can contain more than one fragment from the same reference contig, in which case most fragments but not all are overlapping. More than 85% of the amplicons yielded at least 12 high-quality sequences. All subfolders contain at least one sequence that is of very good Sanger quality. 
-* Consensus sequences for original contigs used to design primers and perform functional annotation can be found here in Appendix.S3.fas (see also <A HREF="Tables.S1.to.S5"> Table S2 </A>)
-* Consensus sequences for the genomic sequences obtained are in <A HREF="Appendix"> Appendix.S4.qpqr.fas</A>) for in Q. petraea and Q. robur and <A HREF="Appendix"> Appendix.S5.qi.fas</A>) for Q. ilex.
-* These sequences are amplicons for genic regions associated with 759 reference contigs from the original working assembly provided in <A HREF="Appendix"> Appendix.S2</A> of the lang <i>et al.</i> BioRxiv manuscript. 
+* These sequences are amplicons obtained from genic regions associated with contigs from the original working assembly provided in <A HREF="Appendix"> Appendix.S2</A>. Consensus sequences for these original contigs (or singleton sequences) were used to design primers and perform functional annotations, and can be found in <A HREF="Appendix"> Appendix.S3.fas</A> (see also <A HREF="Tables.S1.to.S5"> Table S2 </A>)
+* Consensus sequences of the 852 genomic regions re-sequenced in this study after analyzing Sanger data are in <A HREF="Appendix"> Appendix.S4.qpqr.fas</A>) for in <i>Q. petraea</i> and <i>Q. robur</i> and <A HREF="Appendix"> Appendix.S5.qi.fas</A>) for <i>Q. ilex</i> (394 genic regions for one individual, heterozygote sites being indicated by IUPAC codes).
 * <A HREF="Tables.S1.to.S5"> Table S1 </A> describes amplicons for primer sequences, original candidate gene list, targeted biological functions (see references at the end of the Table), candidate gene type, fragment expected size and position in original assembly, preliminary results based nucleotide quality for obtained sequences and final decision after excluding paralog amplifications.
 * <A HREF="Tables.S1.to.S5"> Table S2 </A> lists functional annotations from Blast2GO (-A), comparison of BlastX best hits results (according to E-values) between consensus sequences of the original working assembly (<i>orict</i>) and the <i>ocv4</i> assembly (-B) from <A HREF="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1331-9"> Lesur <i>et al.</i> 2015 </A>, and comparisons of BlastN results of both orict and corresponding amplicon only to ocv4 (-C). 
-* <A HREF="Tables.S1.to.S5"> Table S3 </A> lists all variants single base positions, with sample sizes, alleles, genotypes counts, various statistics, and generic format for genotyping essays input data. Species samples exclude the 2 most introgressed individuals. 
+* <A HREF="Tables.S1.to.S5"> Table S3 </A> lists all single base variant positions exhaustively, with sample sizes, alleles, genotypes counts, various statistics, and generic format for genotyping essays input data. 
 * <A HREF="Tables.S1.to.S5"> Table S4 </A> is derived from Table S3 where contiguous polymorphic base positions and length are listed for complex polymorphisms5 for SSR positions). 
+* Both Tables S3 and S4 Species samples exclude the 2 most introgressed individuals of the discovery panel, for Gst and Gst' statistics to be meaningful. A similar list is available here which excludes the 4 most introgressed individuals.
 * <A HREF="Tables.S1.to.S5"> Table S5 </A> lists SSR positions in consensus sequences and SSR patterns as detected from the <A HREF="https://mreps.univ-mlv.fr/"> MREPS </A> software. 
 
-
-
-Tables S1 and S2 correct and extend and the oak Candidate Genes Database of the Quercus Portal (www.evoltree.eu/index.php/e-recources/databases/candidate-genes). SNPs, indels and SSRs catalogs and positions within genomic consensus sequences, and ready-to-use format for genotyping essays are provided in Tables S3 to S5 (Supporting information) and at https://github.com/garniergere/Reference.Db.SNPs.Quercus. 
-
-
-More information and examples of parameter files and scripts for STRUCTURE analyses and parsing MREPS software are given at https://github.com/garniergere/Reference.Db.SNPs.Quercus
-
-Appendix S3 Sequences of chosen contigs consensus and singletons sequences for functional annotation analyses. 
-Appendix S4 Consensus sequences of 852 genomic regions obtained in this study for Quercus petraea and Q. Robur individuals. “(N)9” : represents a low-quality fragment of a length below ~1 kb separating Forward and Reverse amplicons; “n” position with a majority of nucleotides with phd score below 30. “(-)x”: insertion is a minor allele at that position.
-Appendix S5 Nucleotide sequence data of 394 gene regions for one Quercus ilex individual, heterozygote sites being indicated by IUPAC codes. 
-
-
-
-
-The published data correct and largely expand :
-* the current Quercus Portal <A HREF="www.evoltree.eu/index.php/e-recources/databases/candidate-genes"> candidate genes database  </A> 
-* the previous SNP dataset currently available at the eLab from Evoltree www.evoltree.eu/index.php/snp-db/ which are directly derived from these candidate genes. This previous set of SNP can be examined online using the "Fagaceae" & "Quercus petraea/robur" filter options and then "update", and they can also be downloaded in batch from http://www.evoltree.eu/et_extensions/elab-data/SNP_Database_Export.xls
-
-Polymorphic loci lists and additional information are available as Supplementary information of the above reference at the following BioRxiv link:
-
-These include:
-* Fragment lists with links to previous assembly ID, Functional annotation, published genetic maps, and Quercus robur unigene
-* Exhaustive variant list with summary statistics in both <i>Q. petraea</i> and <i>Q. robur</i> (as identified when excluding the 2 most introgressed individuals of the discovery panel)
-* On this repositary, you can also find the same list when excluding the 4 most introgressed individuals (...to be added soon)
-
+<A HREF="Tables.S1.to.S5"> Tables S1 to S5 </A> correct and largely expand :
+* the current Quercus Portal <A HREF="www.evoltree.eu/index.php/e-recources/databases/candidate-genes"> candidate genes database </A> 
+* the <A HREF="www.evoltree.eu/index.php/snp-db/"> Evoltree eLab SNP data </A> which are derived from these candidate genes (use "Fagaceae" & "Quercus petraea/robur" filter options and then "update" for online examination, or download them in batch from http://www.evoltree.eu/et_extensions/elab-data/SNP_Database_Export.xls).
 
 ### Other Fagaceae transcriptomic and genomic resources
-Quercus Portal and Q. robur genome
-fagaceae.org
-genome Q. alba and Q. suber
-transcriptome ... cf references Lang et al to link to
+Quercus Portal and Q. robur genome to add...
+fagaceae.org to add...
+genome Q. alba and Q. suber to add...
+transcriptome ... cf references Lang et al  to add...
 
 ### Contact 
 Pauline Garnier-Géré ( pauline.garniergere@inrae.fr )
