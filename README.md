@@ -29,7 +29,7 @@ A new version of the manuscript is available at (add new BioRxiv link) (to be su
 
 * Sanger original sequence data (.ab1 trace files) current link is <A HREF="https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY"> here</A>. Each subfolder can contain more than one fragment from the same reference contig, in which case most fragments but not all are overlapping. More than 85% of the amplicons yielded at least 12 high-quality sequences. All subfolders contain at least one sequence that is of very good Sanger quality. 
 * These sequences are amplicons obtained from genic regions associated with contigs from the original working assembly provided in <A HREF="Appendix"> Appendix.S2</A>. Consensus sequences for these original contigs (or singleton sequences) were used to design primers and perform functional annotations, and can be found in <A HREF="Appendix"> Appendix-S3.fas</A> (see also <A HREF="Tables.S1.to.S5"> Table S2 </A>)
-* Consensus sequences of the 852 genomic regions re-sequenced in this study after analyzing Sanger data are in <A HREF="Appendix"> Appendix-S4.fas</A>) for in <i>Q. petraea</i> and <i>Q. robur</i> and <A HREF="Appendix"> Appendix-S5</A>) for <i>Q. ilex</i> (394 genic regions for one individual, heterozygote sites being indicated by IUPAC codes).
+* Consensus sequences of the 852 genomic regions re-sequenced in this study after analyzing Sanger data are in <A HREF="Appendix"> Appendix-S4.fas</A>) for in <i>Q. petraea</i> and <i>Q. robur</i> and <A HREF="Appendix"> Appendix-S5.fas</A>) for <i>Q. ilex</i> (394 genic regions for one individual, heterozygote sites being indicated by IUPAC codes).
 * <A HREF="Tables.S1.to.S5"> Table S1 </A> describes amplicons for primer sequences, original candidate gene list, targeted biological functions (see references at the end of the Table), candidate gene type, fragment expected size and position in original assembly, preliminary results based nucleotide quality for obtained sequences and final decision after excluding paralog amplifications.
 * <A HREF="Tables.S1.to.S5"> Table S2 </A> lists functional annotations from Blast2GO (-A), comparison of BlastX best hits results (according to E-values) between consensus sequences of the original working assembly (<i>orict</i>) and the <i>ocv4</i> assembly (-B) from <A HREF="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1331-9"> Lesur <i>et al.</i> 2015 </A>, and comparisons of BlastN results of both orict and corresponding amplicon only to ocv4 (-C). 
 * <A HREF="Tables.S1.to.S5"> Table S3 </A> lists all single base variant positions exhaustively, with sample sizes, alleles, genotypes counts, various statistics, and generic format for genotyping essays input data. 
@@ -43,8 +43,11 @@ A new version of the manuscript is available at (add new BioRxiv link) (to be su
 
 ### Other Fagaceae transcriptomic and genomic resources
 Quercus Portal and Q. robur genome to add...
+
 fagaceae.org to add...
+
 genome Q. alba and Q. suber to add...
+
 transcriptome ... cf references Lang et al  to add...
 
 ### Contact 
