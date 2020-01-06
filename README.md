@@ -9,7 +9,7 @@ These data were first published in: <br/>
 > Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P (2018) High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>).
 <br /> available at  https://doi.org/10.1101/388447.
 
-A new version of the manuscript is available at (add new BioRxiv link) (submitted to PCI Evolutionary Biology).
+A new version of the manuscript is available at (add new BioRxiv link) (to be submitted to PCI Evolutionary Biology).
 
 ### Description of the data in summary
 
@@ -28,14 +28,16 @@ A new version of the manuscript is available at (add new BioRxiv link) (submitte
 ### Data availability and links to other oak genomic resources
 
 * Sanger original sequence data (.ab1 trace files) current link is <A HREF="https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY"> here</A>. Each subfolder can contain more than one fragment from the same reference contig, in which case most fragments but not all are overlapping. More than 85% of the amplicons yielded at least 12 high-quality sequences. All subfolders contain at least one sequence that is of very good Sanger quality. 
-* These sequences are amplicons for gene fragments associated with 759 reference contigs from the original working assembly provided in <A HREF="Appendix.S2"> Appendix S2</A> of the lang <i>et al.</i> BioRxiv manuscript. 
+* Consensus sequences for original contigs used to design primers and perform functional annotation can be found here in Appendix.S3.fas (see also <A HREF="Tables.S1.to.S5"> Table S2 </A>)
+* Consensus sequences for the genomic sequences obtained are in <A HREF="Appendix"> Appendix.S4.qpqr.fas</A>) for in Q. petraea and Q. robur and <A HREF="Appendix"> Appendix.S5.qi.fas</A>) for Q. ilex.
+* These sequences are amplicons for genic regions associated with 759 reference contigs from the original working assembly provided in <A HREF="Appendix"> Appendix.S2</A> of the lang <i>et al.</i> BioRxiv manuscript. 
 * <A HREF="Tables.S1.to.S5"> Table S1 </A> describes amplicons for primer sequences, original candidate gene list, targeted biological functions (see references at the end of the Table), candidate gene type, fragment expected size and position in original assembly, preliminary results based nucleotide quality for obtained sequences and final decision after excluding paralog amplifications.
 * <A HREF="Tables.S1.to.S5"> Table S2 </A> lists functional annotations from Blast2GO (-A), comparison of BlastX best hits results (according to E-values) between consensus sequences of the original working assembly (<i>orict</i>) and the <i>ocv4</i> assembly (-B) from <A HREF="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1331-9"> Lesur <i>et al.</i> 2015 </A>, and comparisons of BlastN results of both orict and corresponding amplicon only to ocv4 (-C). 
 * <A HREF="Tables.S1.to.S5"> Table S3 </A> lists all variants single base positions, with sample sizes, alleles, genotypes counts, various statistics, and generic format for genotyping essays input data. Species samples exclude the 2 most introgressed individuals. 
 * <A HREF="Tables.S1.to.S5"> Table S4 </A> is derived from Table S3 where contiguous polymorphic base positions and length are listed for complex polymorphisms5 for SSR positions). 
 * <A HREF="Tables.S1.to.S5"> Table S5 </A> lists SSR positions in consensus sequences and SSR patterns as detected from the <A HREF="https://mreps.univ-mlv.fr/"> MREPS </A> software. 
 
-Consensus sequences are respectively in Supporting information appendices S1 (used to design primers), S5 (used for functional annotation), and S6 (genomic sequences obtained). 
+
 
 Tables S1 and S2 correct and extend and the oak Candidate Genes Database of the Quercus Portal (www.evoltree.eu/index.php/e-recources/databases/candidate-genes). SNPs, indels and SSRs catalogs and positions within genomic consensus sequences, and ready-to-use format for genotyping essays are provided in Tables S3 to S5 (Supporting information) and at https://github.com/garniergere/Reference.Db.SNPs.Quercus. 
 
