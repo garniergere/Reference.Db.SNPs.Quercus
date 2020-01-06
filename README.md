@@ -13,7 +13,7 @@ A new version of the manuscript is available at (add new BioRxiv link) (to be su
 
 ### Description of the data in summary
 
-* Sanger sequences were produced from over 800 gene fragments covering ~530 kb across the genic partition of European oaks in a range-wide sampling of 25 individuals (11 <i>Q. petraea</i>, 13 <i>Q. robur</i>, one <i>Q. ilex</i> as an outgroup). 
+* Sanger sequences were produced from over 800 gene fragments covering ~530 kb across the genic partition of European oaks in a range-wide sampling of 24 individuals (11 <i>Q. petraea</i>, 13 <i>Q. robur</i>, plusone <i>Q. ilex</i> as an outgroup). 
 
 * Regions targeted represented broad functional categories potentially involved in species ecological preferences, and a random set of genes.
 
