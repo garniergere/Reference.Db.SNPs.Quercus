@@ -2,7 +2,7 @@
 
 This page compiles information from a database of high-quality polymorphic loci (SNP, Indel, SSR) characterized across ~530 kb of sequence fragments from genic regions in two Quercus species (<i>Q. petraea</i> and <i>Q. robur</i>). 
 
-In the post-genomics era, non-model species like most Fagaceae still lack operational diversity resources for population genomics studies. The quality of the data provided here and their representativity in terms of species genomic diversity make them useful for possible applications in medium-scale landscape  and molecular ecology projects. Moreover, they can serve as a reference resource for validation purposes in larger-scale re-sequencing projects. This type of project is preferentially recommended in oaks in contrast to SNP array development, given the large nucleotide variation and low levels of linkage disequilibrium revealed.
+In the post-genomics era, non-model species like most <i>Fagaceae</i> still lack operational diversity resources for population genomics studies. The quality of the data provided here and their representativity in terms of species genomic diversity make them useful for possible applications in medium-scale landscape  and molecular ecology projects. Moreover, they can serve as a reference resource for validation purposes in larger-scale re-sequencing projects. This type of project is preferentially recommended in oaks in contrast to SNP array development, given the large nucleotide variation and low levels of linkage disequilibrium revealed.
 
 These data were first published in: <br/>
 
