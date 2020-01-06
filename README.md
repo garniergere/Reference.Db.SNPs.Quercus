@@ -23,7 +23,7 @@ A new version of the manuscript is available at (add new BioRxiv link) (to be su
 
 * <A HREF="STRUCTURE.files"> STRUCTURE.files </A> provide examples of data, parameter files, and R script for directly plotting Standard deviations or Bayesian Confidence Intervals around Q-values from the STRUCTURE software outputs (Falush <i>et al.</i> 2003, Genetics 164: 1567-1587), as used across the discovery panel of 24 individuals.
 
-* See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses mreps output into a dataframe for SSR detection.
+* See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses the output from the <A HREF="https://mreps.univ-mlv.fr/"> MREPS SSR detection software</A> into a dataframe .
 
 ### Data availability and links to other oak genomic resources
 
