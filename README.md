@@ -13,15 +13,20 @@ A new version of the manuscript is available at ... and has been submitted to PC
 
 ### Description of the data in summary
 
-* Sanger sequences were produced from over 800 gene fragments covering ~530 kb across the genic partition of European oaks in a range-wide sampling of 25 individuals (11 Quercus petraea, 13 Q. robur, one Q. ilex as an outgroup). 
+* Sanger sequences were produced from over 800 gene fragments covering ~530 kb across the genic partition of European oaks in a range-wide sampling of 25 individuals (11 <i>Q. petraea</i>, 13 <i>Q. robur</i>, one <i>Q. ilex</i> as an outgroup). 
 
 * Regions targeted represented broad functional categories potentially involved in species ecological preferences, and a random set of genes.
 
 * Using a high-quality dedicated pipeline (SeqQual at https://github.com/garniergere/SeqQual), we obtained a detailed characterization of 852 independent genic regions, which include over 14500 polymorphisms, with ~12500 SNPs -218 being triallelic-, over 1500 insertion-deletions, and ~200 novel di- and tri-nucleotide SSR loci. 
 
-* This catalog also provides various summary statistics within and among species, gene ontology information, and standard formats to assist loci choice for genotyping projects. The distribution of nucleotide diversity and differentiation across genic regions are also described for the first time in those species (mean nucleotide diversity close to ~0.0049 in Q. petraea and to ~0.0045 in Q. robur across random regions, and mean FST ~0.13 across SNPs), with an estimate across the genome of 41 to 51 million SNPs expected in both species. We observed robust patterns of slightly but significantly higher diversity in <i>Q. petraea</i>, across a random gene set and in the abiotic stress functional category, and a heterogeneous landscape of both diversity and differentiation. 
+* This catalog also provides various summary statistics within and among species, gene ontology information, and standard formats to assist loci choice for genotyping projects. The distribution of nucleotide diversity and differentiation across genic regions are also described for the first time in those species (mean nucleotide diversity close to ~0.0049 in <i>Q. petraea</i> and to ~0.0045 in <i>Q. robur</i> across random regions, and mean FST ~0.13 across SNPs), with an estimate across the genome of 41 to 51 million SNPs expected in both species. We observed robust patterns of slightly but significantly higher diversity in <i>Q. petraea</i>, across a random gene set and in the abiotic stress functional category, and a heterogeneous landscape of both diversity and differentiation. 
 
 ### Data availability and link to other oak genomic resources
+* Sanger original data current link https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY 
+
+
+
+
 
 The published data correct and largely expand :
 * the previous oak candidate genes database of the Quercus Portal at https://arachne.pierroton.inra.fr/QuercusPortal/
@@ -38,8 +43,15 @@ See <A HREF="STRUCTURE.files"> STRUCTURE.files </A> for examples of data, parame
 
 See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses mreps output into a dataframe for SSR detection.
 
-## Contact 
+### Contact 
 Pauline Garnier-Géré ( pauline.garniergere@inrae.fr )
+
+### Funding
+
+EVOLTREE network of Excellence, Award: EU contract n°016322
+Agence Nationale de la Recherche, TRANSBIODIV project, Award: 06-BDIV-003-04
+Biodiversa LINKTREE project, Award: contract n°2008-966
+Agence Nationale de la Recherche, REALTIME project, Award: N°59000256
 
 
 
