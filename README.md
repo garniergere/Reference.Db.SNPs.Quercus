@@ -22,13 +22,32 @@ A new version of the manuscript is available at ... and has been submitted to PC
 * This catalog also provides various summary statistics within and among species, gene ontology information, and standard formats to assist loci choice for genotyping projects. The distribution of nucleotide diversity and differentiation across genic regions are also described for the first time in those species (mean nucleotide diversity close to ~0.0049 in <i>Q. petraea</i> and to ~0.0045 in <i>Q. robur</i> across random regions, and mean FST ~0.13 across SNPs), with an estimate across the genome of 41 to 51 million SNPs expected in both species. We observed robust patterns of slightly but significantly higher diversity in <i>Q. petraea</i>, across a random gene set and in the abiotic stress functional category, and a heterogeneous landscape of both diversity and differentiation. 
 
 ### Data availability and link to other oak genomic resources
-* Sanger original data current link https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY 
-* The Original assembly for selecting contigs is in Appendix S2 of the paper (Supporting information). For Sanger trace files (with data on at least 2 individuals), see the Dryad repository (the https://doi.org/10.5061/dryad.4mw6m906j link will be available once data have been curated, 
-
-https://datadryad.org/stash/dataset/doi:10.5061/dryad.4mw6m906j
+* Sanger original sequence data (.ab1 trace files) current link https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY . These sequences represent amplicons for gene fragments associated with 759 reference contigs from the
+assembly provided in Appendix S2 of the lang et al. manuscript in BioRxiv https://www.biorxiv.org/content/10.1101/388447v1
+Each subfolder can contain more than one fragment from the same reference contig and most
+fragments but not all are overlapping. More than 85% of the fragments yielded at least 12
+high-quality sequences. All subfolders contain at least one sequence that is of very good
+Sanger quality.
+Leaves from individuals were sampled and stored in silica gel. DNA extraction was performed
+following Guichoux et al. (2013, DOI : 10.1111/mec.12125). DNA quality and concentration
+were assessed with a Nanodrop spectrophotometer (NanoDrop Technologies, Wilmington,
+152 DE, USA). Extractions were repeated until we obtained at least 20 micrograms of
+genomic DNA per sample, which was needed for a few thousand individual PCRs.
+More information on the overall bioinformatic strategy is in Figure 1 of the lang et al.
+manuscript, and the original list of amplicons with primer sequences and functional
+annotations are in Tables S1 and S2 of the supporting information for the manuscript.
+ST
+Lang, Tiange et al. ... doi:10.5061/dryad.4mw6m906j
+Dryad Page 3 of 4
+All the sequencing work was performed on ABI3730 capillary sequencers (Applied
+Biosciences). Data quality steps were designed throughout the process in order to maximize
+the amount and quality of the sequences finally obtained.
+* The Original assembly for selecting contigs is in Appendix S2 of the paper (Supporting information). For Sanger trace files (with data on at least 2 individuals), 
 
 Consensus sequences are respectively in Supporting information appendices S1 (used to design primers), S5 (used for functional annotation), and S6 (genomic sequences obtained). Tables S1 and S2 correct and extend and the oak Candidate Genes Database of the Quercus Portal (www.evoltree.eu/index.php/e-recources/databases/candidate-genes). SNPs, indels and SSRs catalogs and positions within genomic consensus sequences, and ready-to-use format for genotyping essays are provided in Tables S3 to S5 (Supporting information) and at https://github.com/garniergere/Reference.Db.SNPs.Quercus. 
-Bioperl scripts from the SeqQual pipeline are given at https://github.com/garniergere/SeqQual. Examples of parameter files and scripts for STRUCTURE analyses and parsing MREPS software are given at https://github.com/garniergere/Reference.Db.SNPs.Quercus
+
+
+More information and examples of parameter files and scripts for STRUCTURE analyses and parsing MREPS software are given at https://github.com/garniergere/Reference.Db.SNPs.Quercus
 
 
 
