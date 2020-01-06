@@ -23,6 +23,12 @@ A new version of the manuscript is available at ... and has been submitted to PC
 
 ### Data availability and link to other oak genomic resources
 * Sanger original data current link https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY 
+* The Original assembly for selecting contigs is in Appendix S2 of the paper (Supporting information). For Sanger trace files (with data on at least 2 individuals), see the Dryad repository (the https://doi.org/10.5061/dryad.4mw6m906j link will be available once data have been curated, 
+
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.4mw6m906j
+
+Consensus sequences are respectively in Supporting information appendices S1 (used to design primers), S5 (used for functional annotation), and S6 (genomic sequences obtained). Tables S1 and S2 correct and extend and the oak Candidate Genes Database of the Quercus Portal (www.evoltree.eu/index.php/e-recources/databases/candidate-genes). SNPs, indels and SSRs catalogs and positions within genomic consensus sequences, and ready-to-use format for genotyping essays are provided in Tables S3 to S5 (Supporting information) and at https://github.com/garniergere/Reference.Db.SNPs.Quercus. 
+Bioperl scripts from the SeqQual pipeline are given at https://github.com/garniergere/SeqQual. Examples of parameter files and scripts for STRUCTURE analyses and parsing MREPS software are given at https://github.com/garniergere/Reference.Db.SNPs.Quercus
 
 
 
@@ -48,10 +54,4 @@ Pauline Garnier-Géré ( pauline.garniergere@inrae.fr )
 
 ### Funding
 
-EVOLTREE network of Excellence, Award: EU contract n°016322
-Agence Nationale de la Recherche, TRANSBIODIV project, Award: 06-BDIV-003-04
-Biodiversa LINKTREE project, Award: contract n°2008-966
-Agence Nationale de la Recherche, REALTIME project, Award: N°59000256
-
-
-
+EVOLTREE network of Excellence (EU contract n°016322); Agence Nationale de la Recherche, TRANSBIODIV project (contract 06-BDIV-003-04); Biodiversa LINKTREE project (contract n°2008-966); Agence Nationale de la Recherche, REALTIME project (contract N°59000256).
