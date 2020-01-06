@@ -17,14 +17,13 @@ A new version of the manuscript is available at ... and has been submitted to PC
 
 * Regions targeted represented broad functional categories potentially involved in species ecological preferences, and a random set of genes.
 
-* Using a high-quality dedicated pipeline (SeqQual at https://github.com/garniergere/SeqQual), we obtained a detailed characterization of 852 independent genic regions, which include over 14500 polymorphisms, with ~12500 SNPs -218 being triallelic-, over 1500 insertion-deletions, and ~200 novel di- and tri-nucleotide SSR loci. 
+* Using a high-quality dedicated pipeline (<A HREF="https://github.com/garniergere/SeqQual">SeqQual</A>), we obtained a detailed characterization of 852 independent genic regions, which include over 14500 polymorphisms, with ~12500 SNPs -218 being triallelic-, over 1500 insertion-deletions, and ~200 novel di- and tri-nucleotide SSR loci. 
 
 * This catalog also provides various summary statistics within and among species, gene ontology information, and standard formats to assist loci choice for genotyping projects. The distribution of nucleotide diversity and differentiation across genic regions are also described for the first time in those species (mean nucleotide diversity close to ~0.0049 in <i>Q. petraea</i> and to ~0.0045 in <i>Q. robur</i> across random regions, and mean FST ~0.13 across SNPs), with an estimate across the genome of 41 to 51 million SNPs expected in both species. We observed robust patterns of slightly but significantly higher diversity in <i>Q. petraea</i>, across a random gene set and in the abiotic stress functional category, and a heterogeneous landscape of both diversity and differentiation. 
 
 ### Data availability and links to other oak genomic resources
 
-* Sanger original sequence data (.ab1 trace files) current link is https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY. Each subfolder can contain more than one fragment from the same reference contig, in which case most
-fragments but not all are overlapping. More than 85% of the amplicons yielded at least 12 high-quality sequences. All subfolders contain at least one sequence that is of very good Sanger quality. 
+* Sanger original sequence data (.ab1 trace files) current link is <A HREF="https://datadryad.org/stash/share/klvEAfXP-GQytODunTk1m1g1BHc7HtTdETj7SlN-OfY"> here</A>. Each subfolder can contain more than one fragment from the same reference contig, in which case most fragments but not all are overlapping. More than 85% of the amplicons yielded at least 12 high-quality sequences. All subfolders contain at least one sequence that is of very good Sanger quality. 
 * These sequences are amplicons for gene fragments associated with 759 reference contigs from the original working assembly provided in <A HREF="Appendix.S2"> Appendix S2</A> of the lang <i>et al.</i> BioRxiv manuscript. 
 * <A HREF="Tables.S1.to.S5"> Table S1 </A> describes amplicons for primer sequences, original candidate gene list, targeted biological functions (see references at the end of the Table), candidate gene type, fragment expected size and position in original assembly, preliminary results based nucleotide quality for obtained sequences and final decision after excluding paralog amplifications.
 * <A HREF="Tables.S1.to.S5"> Table S2 </A> lists functional annotations from Blast2GO (-A), comparison of BlastX best hits results (according to E-values) between consensus sequences of the original working assembly (<i>orict</i>) and the <i>ocv4</i> assembly (-B) from <A HREF="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1331-9"> Lesur <i>et al.</i> 2015 </A>, and comparisons of BlastN results of both orict and corresponding amplicon only to ocv4 (-C). 
@@ -39,7 +38,7 @@ More information and examples of parameter files and scripts for STRUCTURE analy
 
 
 The published data correct and largely expand :
-* the previous oak candidate genes database of the Quercus Portal at https://arachne.pierroton.inra.fr/QuercusPortal/
+* the current Quercus Portal <A HREF="https://arachne.pierroton.inra.fr/QuercusPortal/"> candidate genes database  </A> 
 * the previous SNP dataset currently available at the eLab from Evoltree www.evoltree.eu/index.php/snp-db/ which are directly derived from these candidate genes. This previous set of SNP can be examined online using the "Fagaceae" & "Quercus petraea/robur" filter options and then "update", and they can also be downloaded in batch from http://www.evoltree.eu/et_extensions/elab-data/SNP_Database_Export.xls
 
 Polymorphic loci lists and additional information are available as Supplementary information of the above reference at the following BioRxiv link:
@@ -52,6 +51,12 @@ These include:
 See <A HREF="STRUCTURE.files"> STRUCTURE.files </A> for examples of data, parameter files, and R script for plotting Standard deviations or Bayesian Confidence Intervals around Q-values provided by the STRUCTURE software (Falush <i>et al.</i> 2003, Genetics 164: 1567-1587)
 
 See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses mreps output into a dataframe for SSR detection.
+
+### Other Fagaceae transcriptomic and genomic resources
+Quercus Portal and Q. robur genome
+fagaceae.org
+genome Q. alba and Q. suber
+transcriptome ... cf references Lang et al to link to
 
 ### Contact 
 Pauline Garnier-Géré ( pauline.garniergere@inrae.fr )
