@@ -11,7 +11,7 @@ These data were first published in: <br/>
 
 A new version of the manuscript is available at ... and has been submitted to PCI Evolutionary Biology.
 
-## Description of the data in summary
+# Description of the data in summary
 
 Sanger sequences were produced from over 800 gene fragments covering ~530 kb across the genic partition of European oaks in a range-wide sampling of 25 individuals (11 Quercus petraea, 13 Q. robur, one Q. ilex as an outgroup). 
 Regions targeted represented broad functional categories potentially involved in species ecological preferences, and a random set of genes. Using a high-quality dedicated pipeline (SeqQual at ), we obtained a detailed characterization of 852 independent genic regions, which include over 14500 polymorphisms, with ~12500 SNPs -218 being triallelic-, over 1500 insertion-deletions, and ~200 novel di- and tri-nucleotide SSR loci. 
