@@ -1,0 +1,58 @@
+.id	contig	from.to	size	period	exponent	error.rate	dum	sequence.repeat
+out.mr20seq-A.txt	CL100CT134_01	     195  ->       204 :   	10	 <1> 	 [10.00] 	0	NA	a a a a a a a a a a 
+out.mr20seq-A.txt	CL100CT134_03	     397  ->       412 :   	16	 <5> 	 [3.20] 	0.091	NA	actaa actat actaa a 
+out.mr20seq-A.txt	CL100CT134_03	     434  ->       447 :   	14	 <1> 	 [14.00] 	0	NA	a a a a a a a a a a a a a a 
+out.mr20seq-A.txt	CL1099CT11339_03	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL111CT145_03	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL1122CT1352_04	     388  ->       401 :   	14	 <2> 	 [7.00] 	0.083	NA	ct ct ct ct ct cc cc 
+out.mr20seq-A.txt	CL1124CT1353_02	      76  ->       104 :   	29	 <6> 	 [4.83] 	0.043	NA	gtggta gcggta gcggta gcggta gcggt 
+out.mr20seq-A.txt	CL1124CT1353_02	     105  ->       116 :   	12	 <1> 	 [12.00] 	0	NA	c c c c c c c c c c c c 
+out.mr20seq-A.txt	CL1124CT1353_02	     124  ->       142 :   	19	 <3> 	 [6.33] 	0.188	NA	ata atc atc agc aac aac a 
+out.mr20seq-A.txt	CL112CT147_03-R	       1  ->        34 :   	34	 <2> 	 [17.00] 	0	NA	ct ct ct ct ct ct ct ct ct ct ct ct ct ct ct ct ct 
+out.mr20seq-A.txt	CL1131CT1361_01	     220  ->       234 :   	15	 <2> 	 [7.50] 	0.077	NA	aa aa at at at at at a 
+out.mr20seq-A.txt	CL1144CT1377_01	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL1146CT1379_03	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL1155CT1388_03	     587  ->       601 :   	15	 <5> 	 [3.00] 	0.1	NA	aaagg aaagg acagg 
+out.mr20seq-A.txt	CL1196CT1433_02	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL1295CT1553	     632  ->       659 :   	28	 <3> 	 [9.33] 	0.04	NA	caa cag cag cag cag cag cag cag cag c 
+out.mr20seq-A.txt	CL1295CT1553_01	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL1327CT1588_02	     557  ->       571 :   	15	 <5> 	 [3.00] 	0.1	NA	agata agata acata 
+out.mr20seq-A.txt	CL1370CT1634_01	     483  ->       500 :   	18	 <6> 	 [3.00] 	0.083	NA	tttccc tttccc attccc 
+out.mr20seq-A.txt	CL1370CT1634_01	     543  ->       560 :   	18	 <4> 	 [4.50] 	0.071	NA	aaaa aata aata aata aa 
+out.mr20seq-A.txt	CL142CT191_03	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL1479CT1753_02	     137  ->       155 :   	19	 <1> 	 [19.00] 	0.167	NA	t t t t t t t t t t c t t c t t t c t 
+out.mr20seq-A.txt	CL1490CT1763_03	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-A.txt	CL1490CT1763_03	     861  ->       887 :   	27	 <2> 	 [13.50] 	0.28	NA	gt at gt ct ct gt gt tt ta tt ta tt ta t 
+out.mr20seq-A.txt	CL1490CT1763_03	     875  ->       888 :   	14	 <4> 	 [3.50] 	0	NA	ttta ttta ttta tt 
+out.mr20seq-B.txt	CL1509CT1790_03	       1  ->        17 :   	17	 <2> 	 [8.50] 	0.133	NA	ac ag ag ag cg ag ag ag a 
+out.mr20seq-B.txt	CL1509CT1790_03	     126  ->       141 :   	16	 <4> 	 [4.00] 	0.083	NA	agct agct atct atct 
+out.mr20seq-B.txt	CL1539CT1824_02	     802  ->       832 :   	31	 <1> 	 [31.00] 	0.067	NA	c a a a c a a a a a a a a a a a a a a a a a a a a a a a a a a 
+out.mr20seq-B.txt	CL1543CT1829	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1543CT1829_01-R	     116  ->       139 :   	24	 <3> 	 [8.00] 	0.238	NA	atc ttc ttc atc atc ttc ctt ctt 
+out.mr20seq-B.txt	CL1545CT1831_01	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1545CT1831_03	     646  ->       663 :   	18	 <5> 	 [3.60] 	0.154	NA	gaagg gaaga gaaga aaa 
+out.mr20seq-B.txt	CL1559CT1848_01	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1569CT1859_02	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1573CT1864_02	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL157CT207_01	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL157CT207_03	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL15CT17	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1622CT1917	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1629CT1924_01	     266  ->       283 :   	18	 <6> 	 [3.00] 	0.083	NA	ctcttc ctcttc atcttc 
+out.mr20seq-B.txt	CL1629CT1924_01	     267  ->       286 :   	20	 <3> 	 [6.67] 	0.176	NA	tct tcc tct tca tct tct gc 
+out.mr20seq-B.txt	CL1629CT1924_01	     319  ->       347 :   	29	 <2> 	 [14.50] 	0.037	NA	ag ag ag ag ag ag ag ag ag ag ag ag ag tg a 
+out.mr20seq-B.txt	CL1629CT1924_01	     352  ->       373 :   	22	 <1> 	 [22.00] 	0.19	NA	t t t t c t t t t t c t t t t t c t t t c t 
+out.mr20seq-B.txt	CL1629CT1924_01	     352  ->       373 :   	22	 <6> 	 [3.67] 	0.062	NA	ttttct ttttct ttttct ttct 
+out.mr20seq-B.txt	CL162CT212_02	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1663CT1962_02	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL1665CT1964	      91  ->       111 :   	21	 <4> 	 [5.25] 	0.176	NA	tata taga taaa taat taat t 
+out.mr20seq-B.txt	CL1665CT1964	     493  ->       513 :   	21	 <1> 	 [21.00] 	0.15	NA	g a t t t t g t t t t t t t t t t t t t t 
+out.mr20seq-B.txt	CL166CT216	NA	NA	NA	NA	NA	NA	NA
+out.mr20seq-B.txt	CL169CT225_01	     304  ->       330 :   	27	 <1> 	 [27.00] 	0.308	NA	t t a t t t g t t c t t t t g t t g t t t a t g t c t 
+out.mr20seq-B.txt	CL169CT225_01	    1150  ->      1173 :   	24	 <3> 	 [8.00] 	0.19	NA	ggt gct gca gct gca gct gct gtt 
+out.mr20seq-B.txt	CL169CT225_01	      41  ->        57 :   	17	 <3> 	 [5.67] 	0.143	NA	ttg ttg tgg ttg atg tt 
+out.mr20seq-B.txt	CL169CT225_01	      54  ->        71 :   	18	 <3> 	 [6.00] 	0.133	NA	tgt tat tat tat tat tgt 
+out.mr20seq-B.txt	CL169CT225_01	     384  ->       408 :   	25	 <3> 	 [8.33] 	0.091	NA	aaa ata ata ata ata ata gta ata a 
+out.mr20seq-B.txt	CL169CT225_01	     533  ->       543 :   	11	 <1> 	 [11.00] 	0	NA	c c c c c c c c c c c 
+out.mr20seq-B.txt	CL169CT225_01	     640  ->       649 :   	10	 <1> 	 [10.00] 	0	NA	t t t t t t t t t t 
+out.mr20seq-B.txt	CL169CT225_01	     785  ->       805 :   	21	 <7> 	 [3.00] 	0.071	NA	ttttcag tttttag ttttcag 

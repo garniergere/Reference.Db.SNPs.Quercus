@@ -1,0 +1,202 @@
+
+ *****************************************************************************
+ *                              mreps 2.6                                    *
+ *                                                                           *
+ *                Finding tandem repeats in DNA sequences                    *
+ *                                                                           *
+ *                      http://mreps.univ-mlv.fr/                            *
+ *****************************************************************************
+
+Processing sequence 'CL100CT134_01'
+
+* Processing window [1 : 348] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     195  ->       204 :   	 10 	 <1> 	 [10.00] 	 0.000 		a a a a a a a a a a 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL100CT134_03'
+
+* Processing window [1 : 604] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     397  ->       412 :   	 16 	 <5> 	 [3.20] 	 0.091 		actaa actat actaa a 
+     434  ->       447 :   	 14 	 <1> 	 [14.00] 	 0.000 		a a a a a a a a a a a a a a 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There are 2 repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1099CT11339_03'
+
+* Processing window [1 : 760] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL111CT145_03'
+
+* Processing window [1 : 444] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1122CT1352_04'
+
+* Processing window [1 : 708] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     388  ->       401 :   	 14 	 <2> 	 [7.00] 	 0.083 		ct ct ct ct ct cc cc 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1124CT1353_02'
+
+* Processing window [1 : 274] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+      76  ->       104 :   	 29 	 <6> 	 [4.83] 	 0.043 		gtggta gcggta gcggta gcggta gcggt 
+     105  ->       116 :   	 12 	 <1> 	 [12.00] 	 0.000 		c c c c c c c c c c c c 
+     124  ->       142 :   	 19 	 <3> 	 [6.33] 	 0.188 		ata atc atc agc aac aac a 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There are 3 repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL112CT147_03-R'
+
+* Processing window [1 : 337] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+       1  ->        34 :   	 34 	 <2> 	 [17.00] 	 0.000 		ct ct ct ct ct ct ct ct ct ct ct ct ct ct ct ct ct 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1131CT1361_01'
+
+* Processing window [1 : 628] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     220  ->       234 :   	 15 	 <2> 	 [7.50] 	 0.077 		aa aa at at at at at a 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1144CT1377_01'
+
+* Processing window [1 : 715] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1146CT1379_03'
+
+* Processing window [1 : 384] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1155CT1388_03'
+
+* Processing window [1 : 656] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     587  ->       601 :   	 15 	 <5> 	 [3.00] 	 0.100 		aaagg aaagg acagg 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1196CT1433_02'
+
+* Processing window [1 : 257] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1295CT1553'
+
+* Processing window [1 : 732] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     632  ->       659 :   	 28 	 <3> 	 [9.33] 	 0.040 		caa cag cag cag cag cag cag cag cag c 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1295CT1553_01'
+
+* Processing window [1 : 386] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1327CT1588_02'
+
+* Processing window [1 : 741] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     557  ->       571 :   	 15 	 <5> 	 [3.00] 	 0.100 		agata agata acata 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1370CT1634_01'
+
+* Processing window [1 : 1021] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     483  ->       500 :   	 18 	 <6> 	 [3.00] 	 0.083 		tttccc tttccc attccc 
+     543  ->       560 :   	 18 	 <4> 	 [4.50] 	 0.071 		aaaa aata aata aata aa 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There are 2 repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL142CT191_03'
+
+* Processing window [1 : 606] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1479CT1753_02'
+
+* Processing window [1 : 802] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     137  ->       155 :   	 19 	 <1> 	 [19.00] 	 0.167 		t t t t t t t t t t c t t c t t t c t 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There is 1 repeat in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1490CT1763_03'
+
+* Processing window [1 : 674] *
+
+RESULTS: There are no repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
+Processing sequence 'CL1507CT1788_02'
+
+* Processing window [1 : 1110] *
+
+   from   ->       to  : 	 size	 <per.>	 [exp.]		 err-rate 	sequence
+ ---------------------------------------------------------------------------------------------
+     861  ->       887 :   	 27 	 <2> 	 [13.50] 	 0.280 		gt at gt ct ct gt gt tt ta tt ta tt ta t 
+     875  ->       888 :   	 14 	 <4> 	 [3.50] 	 0.000 		ttta ttta ttta tt 
+ ---------------------------------------------------------------------------------------------
+RESULTS: There are 2 repeats in the processed sequence
+
+Warning: TO(=2200) is beyond the end of sequence
