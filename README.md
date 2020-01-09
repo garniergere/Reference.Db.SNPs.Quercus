@@ -9,7 +9,7 @@ These data were first published in: <br/>
 > Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P (2018) High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>).
 <br /> available at  https://doi.org/10.1101/388447.
 
-A new version of the manuscript is available at (add new BioRxiv link) (to be submitted to PCI Evolutionary Biology).
+A new version of the manuscript is available at (add new BioRxiv link).
 
 ### Description of the data in summary
 
