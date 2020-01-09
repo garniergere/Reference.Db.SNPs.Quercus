@@ -43,7 +43,7 @@ A new version of the manuscript is available at (add new BioRxiv link) (to be su
 * the current Quercus Portal <A HREF="http://www.evoltree.eu/index.php/e-recources/databases/candidate-genes"> candidate genes database</A>. 
 * the <A HREF="http://www.evoltree.eu/index.php/snp-db/"> Evoltree eLab SNP data </A> which are derived from these candidate genes (Click on "Refine data" then use "Fagaceae" and "Quercus petraea/robur" filter options, then "update" for online examination), or download them from <A HREF="http://www.evoltree.eu/et_extensions/elab-data/SNP_Database_Export.xls"> SNP_Database_Export</A>.
 
-### Other Fagaceae transcriptomic and genomic resources (not exhaustive)
+### Other Fagaceae transcriptomic and web genomic resources
 
 <A HREF="https://arachne.pierroton.inra.fr/QuercusPortal/index.php?p=fmap"> Quercus Portal</A> which include the genomic resources from the <A HREF="http://www.oakgenome.fr/"> Genome Sequence of <i>Q. robur</i> </A>. 
 
