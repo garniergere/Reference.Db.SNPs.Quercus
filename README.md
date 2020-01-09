@@ -45,13 +45,14 @@ A new version of the manuscript is available at (add new BioRxiv link) (to be su
 
 ### Other Fagaceae transcriptomic and genomic resources (not exhaustive)
 
-Quercus Portal <A HREF="https://arachne.pierroton.inra.fr/QuercusPortal/index.php?p=fmap"> Quercus Portal</A> which include the genomic resources from the <A HREF="http://www.oakgenome.fr/"> Genome Sequence of <i>Q. robur</i> </A>. 
+<A HREF="https://arachne.pierroton.inra.fr/QuercusPortal/index.php?p=fmap"> Quercus Portal</A> which include the genomic resources from the <A HREF="http://www.oakgenome.fr/"> Genome Sequence of <i>Q. robur</i> </A>. 
 
-fagaceae.org to add...
+<A HREF="https://www.hardwoodgenomics.org/"> Hardwood Genomics website</A>, with the draft reference genome resources of <i>Castanea
+  mollissima</i> (Chinese chestnut), and <i>Quercus alba</i> transcriptome assembly and GO database.
 
-genome Q. alba and Q. suber to add...
+<A HREF="https://valleyoak.ucla.edu/"> Valley oak (Quercus lobata) Genome project resources</A> and reference sequence.
 
-transcriptome ... cf references Lang et al  to add...
+<A HREF="http://corkoakdb.org//"> Cork oak (<i>Quercus suber</i>) Genome Portal</A>.
 
 ### Contact 
 Pauline Garnier-Géré ( pauline.garniergere@inrae.fr )
