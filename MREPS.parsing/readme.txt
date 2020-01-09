@@ -10,4 +10,4 @@ Utilization of the script mreps.parsing.R with the example provided:
 # or open the script in an R editor and run it from there.
 
 # mreps.df.txt is the script output which can be seen in Xcell or OpenOffice
-# Arguments other than folder name can also be changed in the script, see within the script for more information on the arguments.
+# Arguments other than folder name can also be changed in the script, see within the script for more information.
