@@ -1,5 +1,5 @@
-## How to use R scripts and reproduce the plots given online, based on STRUCTURE results, which vizualise Qvalues SD or BCI 
-## (Bayesian confidence Intervals?
+## How to use the structure.SD.CI.anyK.plot.K=2only.R script and reproduce the plots given online, based on STRUCTURE results 
+## with Qvalues SD or BCI (Bayesian confidence Intervals?
 
 # 1) download the zip with Structure output file examples under .../STRU-output and the R script structure.SD.CI.anyK.plot.K=2only.R
 # 2) unzip them and copy them in a subfolder of the same name (or modify the script for in.folder arguments)
