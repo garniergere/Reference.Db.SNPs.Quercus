@@ -4,7 +4,7 @@ This page compiles information from a database of high-quality polymorphic loci 
 
 In the post-genomics era, non-model species like most <i>Fagaceae</i> still lack operational diversity resources for population genomics studies. The quality of the data provided here and their representativity in terms of species genomic diversity make them useful for possible applications in medium-scale landscape  and molecular ecology projects . Moreover, they can serve as a reference resource for validation purposes in larger-scale re-sequencing projects (e.g. for precise variant identification in reference individuals, for comparing symmary statistics distributions in evolutionary studies, for estimating genotyping error rates). This type of project is preferentially recommended in oaks in contrast to SNP array development, given the large nucleotide variation and low levels of linkage disequilibrium revealed.
 
-These data were first published in BioRxiv with a new version of the manuscript available <A HREF="https://www.biorxiv.org/content/10.1101/388447v2"> here</A>:
+These data were first published in BioRxiv with the last version of the manuscript available <A HREF="https://www.biorxiv.org/content/10.1101/388447v2"> here</A>:
 <br/>
 > Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P (2018) High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>).<br /> 
 
