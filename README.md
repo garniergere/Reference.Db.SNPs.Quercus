@@ -37,7 +37,7 @@ These data were first published in BioRxiv with the last version of the manuscri
 * <A HREF="Genes.and.SNPs"> Table S5 </A> lists SSR positions in consensus sequences and SSR patterns as detected from the <A HREF="https://mreps.univ-mlv.fr/"> MREPS </A> software. 
 
 <A HREF="Genes.and.SNPs"> Tables S1 to S5 </A> correct and largely expand :
-* the current Quercus Portal <A HREF="http://www.evoltree.eu/index.php/e-recources/databases/candidate-genes"> candidate genes database</A>. 
+* the current Q. robur and Q. petraea Candidate Genes Database <A HREF="http://www.evoltree.eu/index.php/e-recources/databases/candidate-genes"> </A>. 
 * the <A HREF="http://www.evoltree.eu/index.php/snp-db/"> Evoltree eLab SNP data </A> which are derived from these candidate genes (Click on "Refine data" then use "Fagaceae" and "Quercus petraea/robur" filter options, then "update" for online examination), or download them from <A HREF="http://www.evoltree.eu/et_extensions/elab-data/SNP_Database_Export.xls"> SNP_Database_Export</A>.
 
 ### Other Fagaceae transcriptomic and web genomic resources
@@ -52,7 +52,7 @@ These data were first published in BioRxiv with the last version of the manuscri
 <A HREF="http://corkoakdb.org//"> Cork oak (<i>Quercus suber</i>) Genome Portal</A>.
 
 ### Contact 
-Pauline Garnier-Géré ( pauline.garniergere@inrae.fr )
+Pauline Garnier-Géré ( pauline.garnier-gere@inrae.fr )
 
 ### Funding
 
