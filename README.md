@@ -1,10 +1,12 @@
-## High quality SNP, Indel and SSR Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
+## Novel Results from high quality SNP, Indel and SSR Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
 
 This page compiles information from a database of high-quality polymorphic loci (SNP, Indel, SSR) characterized across ~530 kb of sequence fragments from genic regions in two Quercus species (<i>Q. petraea</i> and <i>Q. robur</i>). 
 
 In the post-genomics era, non-model species like most <i>Fagaceae</i> still lack operational diversity resources for population genomics studies. The quality of the data provided here and their representativity in terms of species genomic diversity make them useful for possible applications in medium-scale landscape  and molecular ecology projects . Moreover, they can serve as a reference resource for validation purposes in larger-scale re-sequencing projects (e.g. for precise variant identification in reference individuals, for comparing symmary statistics distributions in evolutionary studies, for estimating genotyping error rates). This type of project is preferentially recommended in oaks in contrast to SNP array development, given the large nucleotide variation and low levels of linkage disequilibrium revealed.
 
-These data were first published in BioRxiv with the most recent version of the manuscript available <A HREF="https://www.biorxiv.org/content/10.1101/388447v4.full.pdf"> here</A>:
+With those data, we observed robust patterns of slightly but significantly higher diversity in <i>Q. petraea</i>, across a random gene set and in the abiotic stress functional category, and a heterogeneous landscape of both nucleotide diversity and differentiation. Alternative and non-exclusive hypotheses are proposed to explain those patterns, in the context of these oak species past history of recolonization and introgression. 
+
+The most recent version of the manuscript detailing these data and associated results can be found  <A HREF="https://www.biorxiv.org/content/10.1101/388447v4.full.pdf"> here</A>:
 <br/>
 > Lang T, Abadie P, Léger V, Decourcelle T, Frigerio J-M, Burban C, Bodénès C, Guichoux E, Le Provost G, Robin C, Tani N, Léger P, Lepoittevin C, El Mujtar VA, Hubert F, Tibbits J, Paiva J, Franc A, Raspail F, Mariette S, Reviron M-P, Plomion C, Kremer A, Desprez-Loustau M-L, Garnier-Géré P (2018) High-quality SNPs from genic regions highlight introgression patterns among European white oaks (<i>Quercus petraea</i> and <i>Q. robur</i>).<br /> 
 
@@ -24,9 +26,7 @@ These data were first published in BioRxiv with the most recent version of the m
 
 * See <A HREF="MREPS.parsing"> MREPS.parsing </A> for a R script that parses the output from the <A HREF="https://mreps.univ-mlv.fr/"> MREPS SSR detection software</A> into a dataframe.
 
-* A detailed comparative analysis of nucleotide diversity range and magnitude is also provided across species. We observed robust patterns of slightly but significantly higher diversity in <i>Q. petraea</i>, across a random gene set and in the abiotic stress functional category, and a heterogeneous landscape of both nucleotide diversity and differentiation. Alternative hypotheses are proposed to explain those patterns, in the context of these oak species past history of recolonization and introgression. 
-
-* The  representativity  of  the  data  provided in terms  of  species  genomic diversity  make  them  useful  for  possible  applications  in  medium-scale  landscape  and molecular  ecology  projects, and as reference resources for validation  purposes  in  larger-scale  resequencing  projects.
+* A detailed comparative analysis of nucleotide diversity range and magnitude is also provided across species. 
 
 ### Data availability and links to other oak genomic resources
 
