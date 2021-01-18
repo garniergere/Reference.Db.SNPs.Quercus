@@ -1,4 +1,4 @@
-## Novel Results from high quality SNP, Indel and SSR Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
+## Novel results from high quality SNP, Indel and SSR Resources for <i>Quercus petraea</i> & <i>Q. robur</i>
 
 This page compiles information from a database of high-quality polymorphic loci (SNP, Indel, SSR) characterized across ~530 kb of sequence fragments from genic regions in two Quercus species (<i>Q. petraea</i> and <i>Q. robur</i>). 
 
