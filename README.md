@@ -40,9 +40,7 @@ The most recent version of the manuscript detailing these data and associated re
 * Both Tables S3 and S4 "Species" samples exclude the 2 most introgressed individuals of the discovery panel (based on STRUCTURE analyses, see <A HREF="STRUCTURE.files/STRU.plot.bci.541.random.pdf"> here </A>), for Gst and Gst' statistics to be meaningful. A similar list is available in the <A HREF="Genes.and.SNPs"> Variant.table.no4introgressed.xlsx</A> file, which excludes the 4 most introgressed individuals (based on STRUCTURE analyses, see<A HREF="STRUCTURE.files/STRU.plot.bci.541.random.pdf"> here </A>).
 * <A HREF="Genes.and.SNPs"> Table S5 </A> lists SSR positions in consensus sequences and SSR patterns as detected from the <A HREF="https://mreps.univ-mlv.fr/"> MREPS </A> software. 
 
-<A HREF="Genes.and.SNPs"> Tables S1 to S5 </A> correct and largely expand :
-* the current Q. robur and Q. petraea Candidate Genes Database <A HREF="http://www.evoltree.eu/index.php/e-recources/databases/candidate-genes"> </A>. 
-* the <A HREF="http://www.evoltree.eu/index.php/snp-db/"> Evoltree eLab SNP data </A> which are derived from these candidate genes (Click on "Refine data" then use "Fagaceae" and "Quercus petraea/robur" filter options, then "update" for online examination), or download them from <A HREF="http://www.evoltree.eu/et_extensions/elab-data/SNP_Database_Export.xls"> SNP_Database_Export</A>.
+<A HREF="Genes.and.SNPs"> Tables S1 to S5 </A> correct and largely expand previous resources included in the former EVOLTREE elab, and tables from the <A HREF="https://arachne.pierroton.inra.fr/QuercusPortal/index.php?p=fmap"> Quercus Portal</A> Candidate Genes and SNPs Databases. 
 
 ### Other Fagaceae transcriptomic and web genomic resources
 
