@@ -40,7 +40,7 @@ The most recent version of the manuscript detailing these data and associated re
 * Both Tables S3 and S4 "Species" samples exclude the 2 most introgressed individuals of the discovery panel (based on STRUCTURE analyses, see <A HREF="STRUCTURE.files/STRU.plot.bci.541.random.pdf"> here </A>), for Gst and Gst' statistics to be meaningful. A similar list is available in the <A HREF="Genes.and.SNPs"> Variant.table.no4introgressed.xlsx</A> file, which excludes the 4 most introgressed individuals (based on STRUCTURE analyses, see<A HREF="STRUCTURE.files/STRU.plot.bci.541.random.pdf"> here </A>).
 * <A HREF="Genes.and.SNPs"> Table S5 </A> lists SSR positions in consensus sequences and SSR patterns as detected from the <A HREF="https://mreps.univ-mlv.fr/"> MREPS </A> software. 
 
-<A HREF="Genes.and.SNPs"> Tables S1 to S5 </A> correct and largely expand previous resources included in the former EVOLTREE elab, and tables from the <A HREF="https://arachne.pierroton.inra.fr/QuercusPortal/index.php?p=fmap"> Quercus Portal</A> Candidate Genes and SNPs Databases. 
+<A HREF="Genes.and.SNPs"> Tables S1 to S5 </A> correct and largely expand previous resources included in the former EVOLTREE elab, and tables from the <A HREF="https://quercusportal.pierroton.inra.fr/"> Quercus Portal</A> Candidate Genes and SNPs Databases. 
 
 ### Other Fagaceae transcriptomic and web genomic resources
 
