@@ -44,7 +44,7 @@ The most recent version of the manuscript detailing these data and associated re
 
 ### Other Fagaceae transcriptomic and web genomic resources
 
-<A HREF="https://arachne.pierroton.inra.fr/QuercusPortal/index.php?p=fmap"> Quercus Portal</A> which include the genomic resources from the <A HREF="http://www.oakgenome.fr/"> Genome Sequence of <i>Q. robur</i> </A>. 
+<A HREF="https://quercusportal.pierroton.inra.fr/"> Quercus Portal</A> which include the genomic resources from the <A HREF="http://www.oakgenome.fr/"> Genome Sequence of <i>Q. robur</i> </A>. 
 
 <A HREF="https://www.hardwoodgenomics.org/"> Hardwood Genomics website</A>, with the draft reference genome resources of <i>Castanea
   mollissima</i> (Chinese chestnut), and <i>Quercus alba</i> transcriptome assembly and GO database.
